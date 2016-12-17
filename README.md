@@ -1,2 +1,2 @@
-# paper-admin-theme
-Paper Admin Theme
+# Paper Admin Theme
+
